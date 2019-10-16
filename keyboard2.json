@@ -1,0 +1,69 @@
+{
+
+"one_time": false,
+
+"buttons": [
+
+[{
+
+"action": {
+
+"type": "text",
+
+"label": "В Ростове"
+
+},
+
+"color": "primary"
+
+},
+
+{
+
+"action": {
+
+"type": "text",
+
+"label": "В Питере"
+
+},
+
+"color": "primary"
+
+}],
+
+[
+
+{
+
+"action": {
+
+"type": "text",
+
+"label": "В Москве"
+
+},
+
+"color": "primary"
+
+},
+{
+
+"action": {
+
+"type": "text",
+
+"label": "В Натальевке"
+
+},
+
+"color": "primary"
+
+}]
+
+
+
+
+]
+
+}

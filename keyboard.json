@@ -1,0 +1,23 @@
+{
+
+"one_time": false,
+
+"buttons": [
+
+[
+
+{
+
+"action": {
+
+"type": "text",
+
+"label": "Скажи погоду"
+
+},
+
+"color": "positive"
+
+}]
+]
+}
